@@ -12,6 +12,11 @@ conf.sh
 iTerm2 > Preferences > General > Load preferences from a custom folder or URL
 ```
 
+##PCKeyboardHack
+```
+cp org.pqrs.PCKeyboardHack.plist ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist
+```
+
 #How to export settings
 ##Keyremap4macbook
 ```
@@ -23,3 +28,8 @@ iTerm2 > Preferences > General > Load preferences from a custom folder or URL
 iTerm2 > Preferences > General > Load preferences from a custom folder or URL
 ```
 Choose empty folder
+
+##PCKeyboardHack
+```
+cp ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist org.pqrs.PCKeyboardHack.plist
+```
