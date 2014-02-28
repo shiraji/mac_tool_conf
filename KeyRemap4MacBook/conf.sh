@@ -20,6 +20,8 @@ $cli set remap.jis_backquote_kana_eisuu 1
 /bin/echo -n .
 $cli set remap.pc_pause2eject 1
 /bin/echo -n .
+$cli set remap.jis_underscore2backslash 1
+/bin/echo -n .
 $cli set remap.jis_eisuu2controlL 1
 /bin/echo -n .
 $cli set option.drop_slowexpose 1
