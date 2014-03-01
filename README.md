@@ -5,7 +5,7 @@ This is repository that keep the configuration for mac's tools.
 #How to use
 ##KeyRemap4MacBook
 ```
-conf.sh
+bash conf.sh
 ```
 ##iTerm2
 ```
