@@ -17,6 +17,11 @@ iTerm2 > Preferences > General > Load preferences from a custom folder or URL
 cp org.pqrs.PCKeyboardHack.plist ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist
 ```
 
+##HyperSwitch
+```
+cp com.bahoom.HyperSwitch.plist ~/Library/Preferences/com.bahoom.HyperSwitch.plist
+```
+
 #How to export settings
 ##Keyremap4macbook
 ```
@@ -32,4 +37,9 @@ Choose empty folder
 ##PCKeyboardHack
 ```
 cp ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist org.pqrs.PCKeyboardHack.plist
+```
+
+##HyperSwitch
+```
+cp ~/Library/Preferences/com.bahoom.HyperSwitch.plist com.bahoom.HyperSwitch.plist
 ```
