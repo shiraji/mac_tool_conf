@@ -19,7 +19,7 @@ cp org.pqrs.PCKeyboardHack.plist ~/Library/Preferences/org.pqrs.PCKeyboardHack.p
 
 ##Xcode
 ```
-cp -prf Color\ Themes ~/Library/Application\ Support/Xcode/
+cp -prf wombat.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 ##HyperSwitch
@@ -46,7 +46,7 @@ cp ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist org.pqrs.PCKeyboardHack.p
 
 ##Xcode
 ```
-cp -prf ~/Library/Application\ Support/Xcode/ Color\ Themes
+cp -prf ~/Library/Developer/Xcode/UserData/FontAndColorThemes wombat.dvtcolortheme
 ```
 
 ##HyperSwitch
