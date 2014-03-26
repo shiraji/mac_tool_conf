@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Colors</key>
+	<dict>
+		<key>Background</key>
+		<string>0.141 0.141 0.141</string>
+		<key>InsertionPoint</key>
+		<string>1 1 1</string>
+		<key>Selection</key>
+		<string>0.267 0.267 0.267</string>
+		<key>xcode.syntax.attribute</key>
+		<string>0.71415 0.25559 0.965</string>
+		<key>xcode.syntax.character</key>
+		<string>0.584 0.894 0.329</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.6 0.588 0.545</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.6 0.588 0.545</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.6 0.588 0.545</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.792 0.902 0.51</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.792 0.902 0.51</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.898 0.471 0.427</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.898 0.471 0.427</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.423529 0.396078 0.901961</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.423529 0.396078 0.901961</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.898 0.471 0.427</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.898 0.471 0.427</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.792157 0.901961 0.509804</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.792 0.902 0.51</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.792157 0.901961 0.509804</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.468864 0.902 0.51</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.541 0.776 0.949</string>
+		<key>xcode.syntax.number</key>
+		<string>0.898 0.471 0.427</string>
+		<key>xcode.syntax.plain</key>
+		<string>1 1 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.894 0.471 0.427</string>
+		<key>xcode.syntax.string</key>
+		<string>0.584 0.894 0.329</string>
+		<key>xcode.syntax.url</key>
+		<string>0.906 0.965 0.855</string>
+	</dict>
+	<key>Fonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Monaco - 11.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Monaco - 11.0</string>
+	</dict>
+</dict>
+</plist>
