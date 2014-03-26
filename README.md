@@ -5,7 +5,7 @@ This is repository that keep the configuration for mac's tools.
 #How to use
 ##KeyRemap4MacBook
 ```
-conf.sh
+bash conf.sh
 ```
 ##iTerm2
 ```
@@ -18,9 +18,13 @@ cp org.pqrs.PCKeyboardHack.plist ~/Library/Preferences/org.pqrs.PCKeyboardHack.p
 ```
 
 ##Xcode
-
 ```
 cp -prf Color\ Themes ~/Library/Application\ Support/Xcode/
+```
+
+##HyperSwitch
+```
+cp com.bahoom.HyperSwitch.plist ~/Library/Preferences/com.bahoom.HyperSwitch.plist
 ```
 
 #How to export settings
@@ -43,4 +47,9 @@ cp ~/Library/Preferences/org.pqrs.PCKeyboardHack.plist org.pqrs.PCKeyboardHack.p
 ##Xcode
 ```
 cp -prf ~/Library/Application\ Support/Xcode/ Color\ Themes
+```
+
+##HyperSwitch
+```
+cp ~/Library/Preferences/com.bahoom.HyperSwitch.plist com.bahoom.HyperSwitch.plist
 ```
