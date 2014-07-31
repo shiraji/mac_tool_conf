@@ -27,6 +27,11 @@ cp -prf wombat.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThem
 cp com.bahoom.HyperSwitch.plist ~/Library/Preferences/com.bahoom.HyperSwitch.plist
 ```
 
+##AndroidStudio
+```
+File > Import Settings, then choose file to import
+```
+
 #How to export settings
 ##Keyremap4macbook
 ```
@@ -52,4 +57,9 @@ cp -prf ~/Library/Developer/Xcode/UserData/FontAndColorThemes wombat.dvtcolorthe
 ##HyperSwitch
 ```
 cp ~/Library/Preferences/com.bahoom.HyperSwitch.plist com.bahoom.HyperSwitch.plist
+```
+
+##AndroidStudio
+```
+File > Export Settings, then choose file to export
 ```
